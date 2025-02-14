@@ -1,4 +1,5 @@
 # Pedalboard Audio Effects Demo
+![demo-ui](https://raw.githubusercontent.com/MushroomFleet/Pedalboard-Gradio/refs/heads/main/images/demo-uiiii.png)
 
 This project is a demonstration of real-time audio processing using Python. It leverages the [Gradio](https://gradio.app/) library to provide an interactive web interface and the [Pedalboard](https://github.com/spotify/pedalboard) library to apply a wide variety of audio effects to uploaded or recorded audio.
 
